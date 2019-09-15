@@ -1,5 +1,5 @@
 ---
-title: "Hello, World!" program
+title: "Hello, World!"
 date: 2019-09-15
 ---
 
